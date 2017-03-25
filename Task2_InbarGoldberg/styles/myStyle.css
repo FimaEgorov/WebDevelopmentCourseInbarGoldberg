@@ -1,6 +1,6 @@
 body {
     direction: rtl;
-    background-image: url("/images/brickwall.png");
+    background-image: url("../images/brickwall.png");
     background-repeat:repeat;
 }
 
